@@ -1,0 +1,52 @@
+.background{
+	    background: url(../img/fbg.jpg)#131212;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+	width: 500px;
+	margin: 10px auto;
+	}
+.login-section{
+	background-color: black;
+	    padding: 78px;
+
+}
+.login-section h2{
+	    color: cadetblue;
+    text-align: center;
+    font-family: 'Germania One', cursive;
+}
+
+
+.login-section img {
+    height: 150px;
+    width: 171px;
+    display: block;
+    margin: auto;
+}
+.form-control{
+	    width: 336px;
+    height: 23px;
+    padding: 0px 7px;
+    margin-bottom: 5px;
+
+}
+.btn{
+	background-color: darkcyan;
+    padding: 3px 17px;
+    border: blue;
+    font-size: medium;
+    text-transform: uppercase;
+    box-shadow: 2px 2px 5px white;
+    border-radius: 5px;
+    -webkit-transition: 0.8s ease;
+    -moz-transition: 0.8s ease;
+    -o-transition: 0.8s ease;
+}
+.btn:hover{
+	cursor: pointer;
+    background: red;
+    box-shadow: 2px 2px 6px white;
+}
