@@ -1,37 +1,4 @@
 # Second-Class
 Admin login, reset password, and register page (with HTML &amp; CSS)
 
-<!DOCTYPE html>
-<html>
-<head>
-	<title>second class</title>
-	<link rel="stylesheet" type="text/css" href="css/style1.css">
-	<link href="https://fonts.googleapis.com/css?family=Germania+One" rel="stylesheet">
-</head>
-<body class="background">
 
-		<div class="container">
-		<div class="login-section">
-				<h2>Admin Login</h2>
-				<img src="img/admin.png">
-				<form>
-					<input type="text" name="" placeholder="Username/Email" class="form-control">
-					<input type="password" name="" placeholder="Password" class="form-control">
-					<input type="submit" value="Login" class="btn">
-				</form>
-
-				<p>
-					<a href="reset.html" target="_blank">Forgot password?</a><br>
-					<a href="register.html" target="_blank">Register Now!</a>
-				</p>
-				
-			</div>
-				
-			
-		</div>
-
-		
-
-
-</body>
-</html>
